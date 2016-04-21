@@ -1,0 +1,91 @@
+
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+.button {
+    background-image: url(smile-header.jpg);
+    border: none;
+    color: white;
+    height: 150%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+    
+}
+
+.buttonh:hover {
+    background-image: url(sana.jpg);
+    color: white;
+}
+
+#divcol{
+    width: 300px;
+    background-color: orange;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-width: 600px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    color:white;
+}
+
+.classp{
+    font-family: 'Indie Flower', cursive;
+    color:white;
+}
+
+.backim{
+    width: 100%;
+    height: 100%;
+    background-image: url(http://www.gandex.ru/upl/oboi/u4383_5904_Black_Wallpaper12.jpg);
+}
+
+#table-properties{
+    color: white;
+    width: 100%;
+    text-align: center
+}
+
+#telmail{
+    
+}
+
+.wite{
+    color: white;
+}
+
+label{
+    color: white;
+}
+
+.buttondowload{
+    background-color: yellow;
+    border: none;
+    color: black;
+    height: 150%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+
+.imglogos{
+    width: 30%;
+    height: 30%;
+}
