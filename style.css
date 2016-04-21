@@ -90,6 +90,12 @@ label{
     width: 30%;
     height: 30%;
     margin: 20px;
-    border:15px;
+    border: double;
     border-color: white;
 }
+
+  @media (max-width: 600px) { 
+    .facet_sidebar { 
+      display: none; 
+    } 
+  } 
